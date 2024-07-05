@@ -1,0 +1,13 @@
+count    5000.000000
+mean        0.792715
+std         0.055254
+min         0.569052
+25%         0.757727
+50%         0.795378
+75%         0.830203
+max         0.989368
+Name: mean_recommended_score, dtype: float64
+
+VGG-16 model is able to give recommendations upto an accuracy of 80% on average.
+VGG-19 model is able to give recommendations upto an accuracy of 79% on average.
+Both VGG-16 and VGG-19 produce embeddings of dimenssion 1X512.
